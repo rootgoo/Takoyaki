@@ -1,3 +1,4 @@
-# Takoyaki
+간편식생산 데이터 IoT 모니터링을 통한
+# 제조 공정 오류원인파악 및 대응시간 축소
 
-간편식 제조 공정 데이터를 이용한 오류 예측 및 모니터링
+![ex_screenshot](./img/screenshot.png)
