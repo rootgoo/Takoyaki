@@ -5,7 +5,7 @@
 
 <br>
 
-![page4](./img/Page4.png)
-![page5](./img/Page5.png)
-![page6](./img/Page6.png)
-![page7](./img/Page7.png)
+![Page_4](https://user-images.githubusercontent.com/93654012/206661753-5cba74ed-5501-4e43-8141-f62cac6c1841.jpeg)
+![Page_5](https://user-images.githubusercontent.com/93654012/206661766-315e09b2-609a-4112-a9fe-8ea61bfdc6c7.jpeg)
+![Page_6](https://user-images.githubusercontent.com/93654012/206661774-bb368124-5f12-42bd-a611-9d2b8127bae7.jpeg)
+![Page_7](https://user-images.githubusercontent.com/93654012/206661778-f19b81ca-5c28-45aa-91e0-7e97b6f277ea.jpeg)
